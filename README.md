@@ -12,7 +12,7 @@
 
 ```python
 # desc   : 콘솔출력 / 여기는 주석입니다! 
-print('Hello, Python!!')
+print('Hello, Python!!') # 콘솔출력 함수
 ```
 
 ## 2일차
