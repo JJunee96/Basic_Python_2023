@@ -19,5 +19,5 @@ me = p.Person('홍길순', 155, '여성')
 print(me)
 
 # 
-mycar = Car
-print(Car.__number)
+mycar = Car()
+print(mycar)
