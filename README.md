@@ -72,7 +72,7 @@ print(f'파이는 {pi:10.3f} 입니다.') # {pi:10.3f} 정수 10자리와 소숫
 <!--
 ![실행화면](https://raw.githubusercontent.com/JJunee96/Study_Python2023/main/Images/address_app.png)
 -->
-<img src = "https://raw.githubusercontent.com/JJunee96/Study_Python2023/main/Images/address_app.png" width=789" /> 
+<img src = "https://raw.githubusercontent.com/JJunee96/Study_Python2023/main/Images/address_app.png" width="700" /> 
 실행화면
 
 ## 7일차
@@ -91,8 +91,10 @@ print(f'파이는 {pi:10.3f} 입니다.') # {pi:10.3f} 정수 10자리와 소숫
         - 기상청 오늘의 날씨 크롤링
         - 데이터포털 OpenAPI 크롤링
         - BeautifulSoup 크롤링
-
+<!--
 ![실행화면](https://raw.githubusercontent.com/JJunee96/Study_Python2023/main/Images/jupyter_folium.png)
+-->
+<img src = "https://raw.githubusercontent.com/JJunee96/Study_Python2023/main/Images/jupyter_folium.png" width = "600" />
 
 Folium OpenAPI 연동화면
 
@@ -110,7 +112,9 @@ Folium OpenAPI 연동화면
     - GUI 개발
         - PyQt 위젯 계속
         - PyQt 다이얼로그
-
+<!--
 ![실행화면](https://raw.githubusercontent.com/JJunee96/Study_Python2023/main/Images/dialog.png)
+-->
+<img src = "https://raw.githubusercontent.com/JJunee96/Study_Python2023/main/Images/dialog.png" width = "300"/>
 
 PyQt 실행화면
